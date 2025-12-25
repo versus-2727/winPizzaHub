@@ -131,7 +131,7 @@ namespace winPizzaHub
             this.groupBox2.Size = new System.Drawing.Size(683, 200);
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "НАЗВАНИЕ ПИЦЦЫ";
+            this.groupBox2.Text = "Четыре сыра";
             // 
             // label5
             // 
@@ -142,21 +142,21 @@ namespace winPizzaHub
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(478, 117);
             this.label5.TabIndex = 2;
-            this.label5.Text = "Текст. Описание пиццы соглано Вашему Варианту. Два, три предложения";
+            this.label5.Text = "четыре сыра в пице\r\n";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label6.Location = new System.Drawing.Point(546, 25);
+            this.label6.Location = new System.Drawing.Point(411, 25);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(134, 22);
+            this.label6.Size = new System.Drawing.Size(269, 22);
             this.label6.TabIndex = 1;
-            this.label6.Text = "ФИО студента";
+            this.label6.Text = "Подгузков Артём Алексеевич";
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::winPizzaHub.Properties.Resources.template;
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(6, 28);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(160, 160);
