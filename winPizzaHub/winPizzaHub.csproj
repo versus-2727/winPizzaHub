@@ -84,6 +84,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Readme.md" />
     <None Include="Resources\free-icon-pizza-706918%281%29.png" />
   </ItemGroup>
   <ItemGroup>
